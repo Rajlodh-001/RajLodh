@@ -25,7 +25,7 @@ function App() {
     <Graducation/>
     <Learnings/>
     <Portfolio/>
-    <Blog/>
+    {/* <Blog/> */}
     <Contact/>
 
   </main>
